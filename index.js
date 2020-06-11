@@ -1,4 +1,5 @@
 // Your code here
+<<<<<<< HEAD
 function saturdayFun (thing='roller-skate'){
     return `This Saturday, I want to ${thing}!`
 }
@@ -45,3 +46,12 @@ function actionApplyer (num, arr){
 
 
 }
+=======
+function saturdayFun (thing="roller-skate"){
+  return `This Saturday, I want to ${thing}!`
+}
+ let mondayWork = function(work='go to the office'){
+   return `This Monday, I will ${work}`
+ }
+ mondayWork("Play games")
+>>>>>>> 8b8fa790e19fabaa7d00ad2a1ae56072fd3c9e45
